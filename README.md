@@ -30,6 +30,8 @@ A web application for managing travel bookings, listings, and user interactions.
 ## Installation
 
 1. **Clone the repository**
+
 ```bash
 git clone https://github.com/yourusername/alx_travel_app.git
 cd alx_travel_app
+```
